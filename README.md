@@ -24,4 +24,4 @@ A comparative spatial-transcriptomics study evaluating VAE embeddings, downstrea
 
 ## Outside science
 
-Offline, my non-scientific obsessions include chasing better hi-fi headphones and IEMs 🎧, biking in circles on gravel 🚴, hunting for movies I somehow missed 🎬, revisiting Star Trek 🖖, and negotiating with reality for more high-fantasy reading time 📚.
+Offline, my non-scientific obsessions include chasing better hi-fi headphones and IEMs 🎧, biking in circles on gravel 🚴, hunting for movies I somehow missed 🎬, revisiting Star Trek 🖖, and negotiating with reality for more high-fantasy reading time 📚 — all while answering to my feline overlords: James Clerk **Max**well and ReLU 🐈.
