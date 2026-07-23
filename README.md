@@ -15,14 +15,14 @@ An early-stage Python framework for reproducible benchmarking of microscopy repr
 
 A spatial-transcriptomics study and accompanying analysis repository evaluating VAE embeddings, downstream multimodal integration and clustering strategies, and classical CellProfiler image features for MERFISH-based cell-type deconvolution with DAPI and membrane imaging.
 
-_Associated publication: [**Evaluating integrative strategies for incorporating phenotypic features in spatial transcriptomics**](https://doi.org/10.1111/jmi.70129)_
+_Associated publication: [Evaluating integrative strategies for incorporating phenotypic features in spatial transcriptomics](https://doi.org/10.1111/jmi.70129)_
 <br>
 
 ### [sqY2H](https://github.com/ciminilab/sqy2h-screen-quantification) — screen quantification for composite plate images
 
 An end-to-end image-analysis workflow I developed for registering composite yeast two-hybrid plate images, fitting well grids, segmenting and assigning colonies, and exporting continuous per-well growth measurements with quality-control and validation outputs.
 
-_Associated preprint: [**A scalable approach to resolving variants of uncertain significance**](https://pubmed.ncbi.nlm.nih.gov/41727046/)_
+_Associated preprint: [A scalable approach to resolving variants of uncertain significance](https://pubmed.ncbi.nlm.nih.gov/41727046/)_
 
 
 ## Outside science
